@@ -9,6 +9,7 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.printf("Login!")
+        System.out.printf("Login~~")
+
     }
 }
